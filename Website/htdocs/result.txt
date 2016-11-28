@@ -1,0 +1,5 @@
+sports car, sport car: 0.875665
+convertible: 0.0831324
+grille, radiator grille: 0.0263376
+racer, race car, racing car: 0.0110873
+car wheel: 0.00118635
