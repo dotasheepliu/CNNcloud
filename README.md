@@ -13,3 +13,5 @@ Referred Git folder contains some tools that we have used from other gits.
 RS folder contains the reading summaries we wrote.
 
 Website folder contains the demo website we make on the image classifiation.
+
+It is written in Python.
